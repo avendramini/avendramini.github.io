@@ -19,14 +19,14 @@ High Shool Diploma 100/100 with honors (2021)
 
 ## Honors & Awards
 
-### 7th Place, ITACPC (2022)
-### 34th Place, SWERC (2022)
-### 4th Place, ITACPC (2022)
-### 26th Place, Reply Code Challenge Standard Edition (2022)
-### 34th Place, Reply Code Challenge 2021 Teen Edition (2021)
-### 4th Place, Olimpiadi Italiane di Informatica a Squadre (2021)
-### Finalist, Olimpiadi Italiane di Informatica a Squadre (2020)
 ### Bronze Medal, Olimpiadi Italiane di Informatica (2020)
+### Finalist, Olimpiadi Italiane di Informatica a Squadre (2020)
+### 4th Place, Olimpiadi Italiane di Informatica a Squadre (2021)
+### 34th Place, Reply Code Challenge 2021 Teen Edition (2021)
+### 26th Place, Reply Code Challenge Standard Edition (2022)
+### 4th Place, ITACPC (2022)
+### 34th Place, SWERC (2022)
+### 7th Place, ITACPC (2022)
 
 ## Internships
 
